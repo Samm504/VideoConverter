@@ -68,6 +68,6 @@ dotnet run
 ```
 
 Notes:
-> The code above is only for .mov to .mp4 video files.
-> The directory or folder must only contain .mov files for it to work.
-> Can be used as base template for other video file conversions.
+- The code above is only for .mov to .mp4 video files.
+- The directory or folder must only contain .mov files for it to work.
+- Can be used as base template for other video file conversions.
